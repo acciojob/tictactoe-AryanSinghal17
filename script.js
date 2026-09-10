@@ -1,6 +1,6 @@
 //your JS code here. If required.
-let Player1 = document.getElementById("player-1");
-let Player2 = document.getElementById("player-2");
+let player1 = document.getElementById("player-1");
+let player2 = document.getElementById("player-2");
 let subBtn = document.getElementById("submit");
 
 let setupBtn = document.getElementById("setup");
